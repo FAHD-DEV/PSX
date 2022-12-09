@@ -9,6 +9,6 @@ local Window = Library.CreateLib("[⚡ANIME] Pet Simulator X! 🐾 - Trade Scam 
 
     MainSection:NewButton("Click To Activate", "Made by Sadmc", function()
    
-  loadstring(game:HttpGet('https://pastebin.com/raw/G0MT3Cwc'))()
+  loadstring(game:HttpGet('https://pastebin.com/raw/ibP7RHrN'))()
       end)
 
